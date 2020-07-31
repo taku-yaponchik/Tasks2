@@ -1,4 +1,3 @@
-# 4)Попросить user ведёт две метки времени до секунды. Ваша задача найти пользователя user ведёт две метки времени до секунды.  
 # 4) Ask user keeps two time stamps up to a second. Your task is to find the user user maintains two timestamps up to a second.
 
 txt=input("Please enter the text: ")
